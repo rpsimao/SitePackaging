@@ -1,0 +1,88 @@
+#scroll {
+	position:relative;
+	height:;
+	overflow:hidden;
+	border:1px solid #ddd;
+	width:480px;
+	padding:15px;
+	height:300px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+}
+
+#tools {
+	width:500em;
+	position:absolute;
+	height:100px;
+}
+
+.tool {
+	float:left;
+	width:520px;
+	height:200px;
+	text-align:center;
+}
+
+.details {
+	font-size:18px;
+	color:#555;
+	margin-top:-20px;
+	background-color:transparent;
+	padding:5px 148px;
+}
+
+
+#thumbs {
+	background:url(http://flowplayer.org/tools/img/demo-navi.jpg) no-repeat;
+	height:90px;
+	position:absolute;
+	top:250px;
+	width:520px;
+	left:-8px;
+}
+
+.t {
+	padding:0 !important;
+	border:0 !important;
+}
+
+.t a {
+	background:transparent url(http://flowplayer.org/tools/img/demo-navi.jpg) no-repeat scroll -21px -90px;
+	margin-left:11px;
+	display:block;
+	width:99px;
+	float:left;
+	height:90px;
+	cursor:pointer;
+}
+
+.t a.active {
+	cursor:default !important;
+}
+
+.navi {
+	margin-left:114px;
+	_margin-left:104px;
+}
+
+/* CSS sprite for the navigation */
+#t0 		  { margin-left:20px; _margin-left:10px;}
+
+#t0.active { background-position:-21px 0 !important; }
+#t0:hover  { background-position:-21px -180px; }
+#t0:active { background-position:-21px -270px; }
+
+#t1			{ background-position:0px -90px; }
+#t1:hover 	{ background-position:0px -180px; }
+#t1.active	{ background-position:0px 0 !important; }
+
+#t2			{ background-position:-221px -90px; }
+#t2:hover 	{ background-position:-221px -180px; }
+#t2.active	{ background-position:-221px 0 !important; }
+
+#t3			{ background-position:-321px -90px; }
+#t3:hover 	{ background-position:-321px -180px; }
+#t3.active	{ background-position:-321px 0 !important; }
+
+
+

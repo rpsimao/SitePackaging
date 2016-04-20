@@ -1,0 +1,196 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: F3 Packaging Site 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-10-12 16:17+0100\n"
+"PO-Revision-Date: 2010-10-13 15:47+0100\n"
+"Last-Translator: Ricardo Simão <ricardo.simao@fterceiro.pt>\n"
+"Language-Team: Ricardo Simão <ricardo.simao@fterceiro.pt>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: /Users/rpsimao/Dropbox/development/\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: Portugal\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: SitePackaging\n"
+
+#: SitePackaging/library/RPS/View/Helpers/ES.php:14
+#: SitePackaging/library/RPS/View/Helpers/PT.php:14
+msgid "Contactos"
+msgstr "Contactos"
+
+#: SitePackaging/library/RPS/View/Helpers/RightBox.php:14
+msgid "Cartonagens:"
+msgstr "Cartonagens:"
+
+#: SitePackaging/library/RPS/View/Helpers/RightBox.php:23
+msgid "bib_texto_entrada"
+msgstr "Embalagens bag-in-box oferecem uma alternativa mais ecológica que outros tipos de embalagem padrão."
+
+#: SitePackaging/library/RPS/View/Helpers/RightBox.php:35
+msgid "farmaceutica"
+msgstr "Farmacêutica"
+
+#: SitePackaging/library/RPS/View/Helpers/RightBox.php:36
+msgid "pharma_texto_entrada"
+msgstr "Soluções para fabricantes de dispositivos médicos e produtos farmacêuticos"
+
+#: SitePackaging/library/RPS/View/Helpers/RightBox.php:48
+msgid "Promocionais"
+msgstr "Promocionais"
+
+#: SitePackaging/library/RPS/View/Helpers/RightBox.php:49
+msgid "promo_texto_entrada"
+msgstr "Oferecemos soluções de embalagens promocionais e de marketing destinadas a melhorar a sua marca."
+
+#: SitePackaging/library/RPS/View/Helpers/RightBox.php:61
+msgid "Expositores"
+msgstr "Expositores"
+
+#: SitePackaging/library/RPS/View/Helpers/RightBox.php:62
+msgid "expo_texto_entrada"
+msgstr "A solução perfeita para o sucesso da sua marca."
+
+#: SitePackaging/library/RPS/View/Helpers/RightBox.php:73
+msgid "Custom"
+msgstr "Personalizados"
+
+#: SitePackaging/library/RPS/View/Helpers/RightBox.php:74
+msgid "custom_texto_entrada"
+msgstr "Projetos inovadores que proporcionam aos nossos clientes uma vantagem distinta no mercado."
+
+#: SitePackaging/application/layouts/frontlayout.phtml:4
+#: SitePackaging/application/layouts/layout.phtml:4
+msgid "titulo"
+msgstr "Fernandes e Terceiro, S.A. - Embalagem"
+
+#: SitePackaging/application/layouts/frontlayout.phtml:73
+msgid "Trabalhe com um líder na indústria de Cartonagem"
+msgstr "Trabalhe com um líder na indústria de Cartonagem"
+
+#: SitePackaging/application/layouts/frontlayout.phtml:74
+msgid "Fornecemos soluções inovadoras e resultados sustentáveis para os nossos clientes."
+msgstr "Fornecemos soluções inovadoras e resultados sustentáveis para os nossos clientes."
+
+#: SitePackaging/application/layouts/frontlayout.phtml:89
+msgid "Design e Inovação"
+msgstr "Design e Inovação"
+
+#: SitePackaging/application/layouts/frontlayout.phtml:91
+msgid "O objectivo de uma embalagem é criar impacto, e é por isso que a Fernandes e Terceiro reconhece que a inovação na forma de um projecto é a chave para o sucesso da sua marca."
+msgstr "O objectivo de uma embalagem é criar impacto, e é por isso que a Fernandes e Terceiro, S.A. reconhece que a inovação na forma de um projecto é a chave para o sucesso da sua marca."
+
+#: SitePackaging/application/layouts/frontlayout.phtml:92
+msgid "Os nossos clientes têm acesso às plataformas de última tecnologia, capacidades de fabricação diverso, e desenhos criativos."
+msgstr "Os nossos clientes têm acesso às plataformas de última tecnologia, capacidades de fabricação diverso, e desenhos criativos."
+
+#: SitePackaging/application/layouts/frontlayout.phtml:93
+msgid "Os nossos mais recentes recursos tecnológicos, oferecem soluções únicas aos nossos clientes, incluindo:"
+msgstr "A Fernandes e Terceiro, S.A. tem uma reputação de projetos de embalagem inovadores que proporcionam aos nossos clientes uma vantagem distinta no mercado, apresentando os seus produtos com apelo real para os consumidores."
+
+#: SitePackaging/application/layouts/frontlayout.phtml:100
+msgid "O trabalho da equipa de design trabalha em estreita colaboração com as equipas de marketing, técnica e de produção para trazer idéias inovadoras de embalagem e convertê-los em realidade comercial. As características funcionais e estéticas combinam-se para formar uma solução de embalagem única para nossos clientes."
+msgstr "O departamento de concepção e desenvolvimento trabalha em estreita colaboração com as equipas técnica e de produção para trazer idéias inovadoras de embalagem e convertê-las em realidade comercial. As características funcionais e estéticas combinam-se para formar uma solução de embalagem única para os nossos clientes."
+
+#: SitePackaging/application/views/scripts/bib/index.phtml:1
+msgid "bib"
+msgstr "Bag-in-Box"
+
+#: SitePackaging/application/views/scripts/bib/index.phtml:3
+msgid "Bag-in-box (BIB) é uma forma flexível, formato de embalagem ecológica para os líquidos. EFornece uma alternativa competitiva para embalagens, como garrafas de vidro e plástico."
+msgstr "Bag-in-box (BIB) é uma forma flexível, formato de embalagem ecológica para os líquidos. Fornece uma alternativa competitiva para embalagens, como garrafas de vidro e plástico."
+
+#: SitePackaging/application/views/scripts/bib/index.phtml:4
+msgid "Existem benefícios práticos como econômicos em relação à embalagem padrão, tais como:"
+msgstr "Existem benefícios práticos como econômicos em relação à embalagem padrão, tais como:"
+
+#: SitePackaging/application/views/scripts/bib/index.phtml:6
+msgid "Prazo de conservação após a abertura - até 8 semanas;"
+msgstr "Prazo de conservação após a abertura - até 8 semanas;"
+
+#: SitePackaging/application/views/scripts/bib/index.phtml:7
+msgid "Excelente proteção de barreira contra luz e oxigênio;"
+msgstr "Excelente proteção de barreira contra luz e oxigênio;"
+
+#: SitePackaging/application/views/scripts/bib/index.phtml:8
+msgid "Menor utilização de materiais e reciclagem;"
+msgstr "Menor utilização de materiais e reciclagem;"
+
+#: SitePackaging/application/views/scripts/bib/index.phtml:9
+msgid "User-friendly e inviolável;"
+msgstr "User-friendly e inviolável;"
+
+#: SitePackaging/application/views/scripts/bib/index.phtml:10
+msgid "Embalagens de diferentes tamanhos podem ser enchidas na mesma máquina;"
+msgstr "Embalagens de diferentes tamanhos podem ser enchidas na mesma máquina;"
+
+#: SitePackaging/application/views/scripts/bib/index.phtml:11
+msgid "Uma fração do peso de outras embalagens."
+msgstr "Uma fração do peso de outras embalagens."
+
+#: SitePackaging/application/views/scripts/custom/index.phtml:1
+msgid "custom"
+msgstr "Personalizados"
+
+#: SitePackaging/application/views/scripts/custom/index.phtml:3
+msgid "Desde do conceito, protótipo, a produção, podemos oferecer um serviço completo de design feitos por encomenda com um objetivo claro em mente: tornar os seus produtos únicos e apelativos."
+msgstr "Desde o conceito, protótipo, à produção, podemos oferecer um serviço completo de design feitos por encomenda com um objetivo claro em mente: tornar os seus produtos únicos e apelativos."
+
+#: SitePackaging/application/views/scripts/custom/index.phtml:4
+msgid "Produzimos uma grande variedade de estilos de embalagens. Trabalhos com o cliente para determinar a configuração ideal de embalagens especialmente para o seu produto e orçamento."
+msgstr "Produzimos uma grande variedade de estilos de embalagens. Trabalhamos com o cliente para determinar a configuração ideal de embalagens especialmente para o seu produto e orçamento."
+
+#: SitePackaging/application/views/scripts/custom/index.phtml:5
+msgid "Para novos projetos, produzimos amostras protótipo em poucos dias para que os clientes possam avaliar o projeto antes de avançar para a fase de produção. Qualquer modificação no projeto pode ser facilmente realizado nesta fase que antecede a de produção."
+msgstr "Para novos projetos, produzimos amostras protótipo em poucos dias para que os clientes possam avaliar o projeto antes de avançar para a fase de produção. Qualquer modificação no projeto pode ser facilmente realizado nesta fase que antecede a de produção."
+
+#: SitePackaging/application/views/scripts/expo/index.phtml:1
+msgid "expositores"
+msgstr "Expositores"
+
+#: SitePackaging/application/views/scripts/expo/index.phtml:3
+msgid "Quando se tenta vender um produto, tem que mantê-lo aos olhos do público."
+msgstr "Quando se tenta vender um produto, tem que mantê-lo aos olhos do público."
+
+#: SitePackaging/application/views/scripts/expo/index.phtml:4
+msgid "Por isso precisa de expositores práticos que mantêm o seu produto onde os clientes o possam ver."
+msgstr "Por isso precisa de expositores práticos que mantêm o seu produto onde os clientes o possam ver."
+
+#: SitePackaging/application/views/scripts/expo/index.phtml:5
+msgid "Desde pequenos pendurantes a expositores de gamas inteiras, a Fernandes e Terceiro, S.A., dispõe da solução para o sucesso da sua marca."
+msgstr "Desde pequenos pendurantes a expositores de gamas inteiras, a Fernandes e Terceiro, S.A., dispõe da solução para o sucesso da sua marca."
+
+#: SitePackaging/application/views/scripts/pharma/index.phtml:3
+msgid "Talvez a área mais exigente para a produção de embalagens, a área farmacêutica exige uma garantia de elevados padrões de consistência e desempenho. "
+msgstr "Talvez a área mais exigente para a produção de embalagens, a área farmacêutica exige uma garantia de elevados padrões de consistência e desempenho. "
+
+#: SitePackaging/application/views/scripts/pharma/index.phtml:5
+msgid "A Fernandes e Terceiro, S.A. é o fornecedor preferencial de um determinado número de laboratórios. Acreditação ISO 9001 e rigoroso controle de qualidade de produção garantem embalagens de alta qualidade, capazes de suportar os rigores de ambientes estéreis médicos e laboratoriais."
+msgstr " A Fernandes e Terceiro, S.A. é o fornecedor preferencial de um determinado número de laboratórios. Acreditação ISO 9001 e rigoroso controle de qualidade de produção garantem embalagens de alta qualidade, capazes de suportar os rigores de ambientes estéreis médicos e laboratoriais."
+
+#: SitePackaging/application/views/scripts/promo/index.phtml:1
+msgid "promocionais"
+msgstr "Promocionais"
+
+#: SitePackaging/application/views/scripts/promo/index.phtml:3
+msgid "Podem ser de várias formas para auxiliar a promoção do produto e as vendas, criando um ponto de diferença."
+msgstr "Podem ser de várias formas para auxiliar a promoção do produto e as vendas, criando um ponto de diferença."
+
+#: SitePackaging/application/views/scripts/promo/index.phtml:4
+msgid "Caixas promocionais são uma ferramenta de marketing muito eficaz, influenciando o comportamento de compra do cliente. As nossas caixas são atraentes e capazes de captar a atenção do consumidor."
+msgstr "Caixas promocionais são uma ferramenta de marketing muito eficaz, influenciando o comportamento de compra do cliente."
+
+#: SitePackaging/application/views/scripts/promo/index.phtml:5
+msgid "Existem muitas variedades, formas e tamanhos disponíveis."
+msgstr "Existem muitas variedades, formas e tamanhos disponíveis."
+
+#~ msgid "Farmacêutica:"
+#~ msgstr "Farmacêutica"
+
+#~ msgid "veterinaria"
+#~ msgstr "Veterinária"
+
+#~ msgid "Bem-Vindo"
+#~ msgstr "Bem-Vindo"

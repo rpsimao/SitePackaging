@@ -1,0 +1,111 @@
+
+
+#sidebar {
+    color: #AFB0B1;
+    background: #efefef;
+    float:right;
+    margin:0 0 24px;
+    padding:15px 10px 10px;
+    width:298px;
+    border: 1px solid #e5e5e5;
+}
+
+#sidebar ul {
+    font-size:1.2em;
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    position:relative;
+}
+.none {
+        background-position: 82px 0px;
+}
+
+.four {
+        background-position: 82px -48px;
+}
+
+.five {
+        background-position: 82px -60px;
+}
+
+.tags {
+        color: #fff;
+        margin: 0.5em;
+}
+
+.tags a,
+.tags span {
+        background-color: #efefef;
+        font-size: 0.8em;
+        padding: 0.1em 0.8em 0.2em;
+}
+
+.tags a:link,
+.tags a:visited {
+        color: #fff;
+        text-decoration: none;  
+}
+
+.tags a:hover,
+.tags a:active {
+        background-color: #efefef;
+        color: #fff;
+        text-decoration: none;  
+}
+
+#sidebar li {
+    height: 150px;
+    overflow: hidden;
+   
+	
+}
+
+#sidebar li h5 {
+    color:#A5A9AB;
+    font-size:1em;
+    margin-bottom:0.5em;
+}
+
+#sidebar li h5 a {
+    color:#A5A9AB;
+    text-decoration:none;
+}
+
+#sidebar li img {
+    float:left;
+    margin-right:8px;
+}
+
+#sidebar li .info {
+    color:#3E4548;
+    font-size:1em;
+	
+}
+
+#sidebar .info a,
+#sidebar .info a:visited {
+    color:#3E4548;
+    text-decoration: none;
+}
+
+#sidebar .spyWrapper {
+    height: 100%;
+    overflow: hidden;
+    position: relative;    
+}
+
+#sidebar {
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+}
+
+.tags span,
+.tags a {
+        -webkit-border-radius: 8px;
+        -moz-border-radius: 8px;
+}
+
+#sidebar a img {
+    border: 0;
+}
